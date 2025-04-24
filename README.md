@@ -12,3 +12,9 @@
 ![SKMBT_C36425041119000-1](https://github.com/user-attachments/assets/ff96c809-3934-400a-97d7-b176a4dc408b)
 5. Bubble Sort
     - Sol: bubblesort.clp
+
+
+6. Set, Union, Intersect
+    - Sol: union.clp
+    - Addtion File: set.txt
+
