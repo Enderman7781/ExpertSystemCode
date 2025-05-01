@@ -18,3 +18,7 @@
     - Sol: union.clp
     - Addtion File: set.txt
 
+7. 客戶推薦
+    - Sol: sales.clp, recommend.txt
+    - Addtion File: record-01.txt, record-02.txt 
+
