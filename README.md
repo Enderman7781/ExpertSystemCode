@@ -25,3 +25,7 @@
 8. 偏好投票制
     - Sol: vote.clp
     - Addtion File: voting-01.txt,voting-02.txt,voting-03.txt,voting-04.txt
+
+9. 字句判斷
+    - Sol: sentence.clp
+    - Addtion File: BNF.txt
