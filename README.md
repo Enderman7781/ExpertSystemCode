@@ -29,3 +29,17 @@
 9. 字句判斷
     - Sol: sentence.clp
     - Addtion File: BNF.txt
+
+10. 教授推薦
+    - Sol: match.clp
+    - Addtion File: matching-01.txt, matching.02.txt
+
+11. 模糊搜尋-1
+    - Sol: fuzzy.clp
+
+12. 模糊搜尋-2
+    - Sol: degree.clp
+
+11. Final - 自動排課系統
+    - Sol: 
+    - Addtion: data.txt, result.txt, scheduling.txt, scoring.txt 
